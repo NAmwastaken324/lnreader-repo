@@ -1,0 +1,11 @@
+[
+    {
+        "id": "lightnovelworldnet",
+        "name": "LightNovelWorld (.net)",
+        "site": "https://lightnovelworld.net/",
+        "lang": "English",
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/NAmwastaken324/lnreader-repo/main/plugins/lightnovelworldnet.js",
+        "iconUrl": "https://raw.githubusercontent.com/NAmwastaken324/lnreader-repo/main/icons/lightnovelworldnet.png"
+    }
+]
